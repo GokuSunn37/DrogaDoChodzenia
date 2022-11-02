@@ -26,7 +26,37 @@
       "name":"Morski cypel",
       "length": 2115,
       "description":"Z pięknych schodków nad nadmorski cypel",
-      "type": "flying",
+      "type": "walking",
+      "image_url":"https://images.unsplash.com/photo-1660343280340-43842c6387fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "best_lap": [1660000578999, 786]
+    },
+    {
+      "id": 4,
+      "route": [52.218224, 21.078493,52.229677, 21.001104],
+      "name":"WWA to BERLIN DÖNER KEBAP",
+      "length": 112,
+      "description":"Taki smaczny a piecze dwa razy",
+      "type": "driving",
+      "image_url":"https://imgs.search.brave.com/EAnYrNlbUfY0BgcbLt7NgXxy0ifImMctLeVDLp9qtxg/rs:fit:670:350:1/g:ce/aHR0cHM6Ly93d3cu/Zm91cmNoZXR0ZS1l/dC1iaWtpbmkuZnIv/c2l0ZXMvZGVmYXVs/dC9maWxlcy9rZWJh/Yi5qcGc",
+      "best_lap": [1661126400000, 786]
+    },
+   {
+      "id": 5,
+      "route": [51.750435, 15.596165,52.768572, 6.882898],
+      "name":"Trasa przemytnicza",
+      "length": 4200,
+      "description":"Taki tajny szlk szluglerski",
+      "type": "walking",
+      "image_url":"https://imgs.search.brave.com/3Leg719ENopej0EbkdBvabNfKVVZgJYyB8ITZ45A8Zg/rs:fit:512:340:1/g:ce/aHR0cHM6Ly8wLmFs/bGVncm9pbWcuY29t/L3M1MTIvMDM5MWIz/LzQ5ZDM1ZmQ3NDA1/NTkxYzZmZjdhMDg1/NjkwNjAvV3JvdHlj/ei1wb3Nwb2xpdHkt/c2Fkem9ua2ktdy1k/b25pY3pjZQ",
+      "best_lap": [1660094578000, 786]
+    },
+   {
+      "id": 6,
+      "route": [54.3556, 18.4828,54.5989, 18.8079],
+      "name":"Morski cypel reverse",
+      "length": 2115,
+      "description":"Do pięknych schodków z nadmorskiego cypla",
+      "type": "walking",
       "image_url":"https://images.unsplash.com/photo-1660343280340-43842c6387fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
       "best_lap": [1660000578999, 786]
     }
@@ -55,7 +85,7 @@
       "last_time":[
         {
          "route_id":3,
-         "time":100,
+         "time":2300,
          "date":1661004578000
         },
         {
